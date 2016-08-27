@@ -1,0 +1,11 @@
+Scales : Complex Sizes
+0 : 202396
+0 : 2632425
+2 : 52613
+3 : 6660
+4 : 950
+5 : 52
+6 : 5
+7 : 1
+Cumulative Complex size: 4026983
+
